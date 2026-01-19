@@ -58,11 +58,11 @@ const Footer1 = () => {
             <div className="mt-2 d-flex flex-column gap-2">
               <div className="d-flex align-items-center gap-2">
                 <FaEnvelope size={16} color="#33cccc" /> 
-                <span style={{ fontSize: '0.85rem' }}>support@invoice360.com</span>
+                <span style={{ fontSize: '0.85rem' }}>info@kreativebrands.co.za</span>
               </div>
               <div className="d-flex align-items-center gap-2">
                 <FaPhone size={16} color="#33cccc" /> 
-                <span style={{ fontSize: '0.85rem' }}>+91 98765 43210</span>
+                <span style={{ fontSize: '0.85rem' }}>+27 69 668 4616</span>
               </div>
             </div>
           </Col>
